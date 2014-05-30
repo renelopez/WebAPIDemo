@@ -8,7 +8,8 @@
     toastr.options.positionClass = 'toast-bottom-right';
 
     // For use with the HotTowel-Angular-Breeze add-on that uses Breeze
-    var remoteServiceName = 'breeze/Breeze';
+    var serviceHost = "http://localhost:9000/";
+    var remoteServiceName = serviceHost+'api/Breeze';
 
     var events = {
         controllerActivateSuccess: 'controller.activateSuccess',

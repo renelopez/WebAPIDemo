@@ -29,7 +29,6 @@
     <link href="content/toastr.css" rel="stylesheet" />
     <link href="content/customtheme.css" rel="stylesheet">
     <link href="content/styles.css" rel="stylesheet" />
-    <link href="content/breeze.directives.css" rel="stylesheet" />
 </head>
 <body>
     <div>
@@ -37,7 +36,7 @@
         <div id="splash-page" data-ng-show="false">
             <div class="page-splash">
                 <div class="page-splash-message">
-                    Hot Towel Angular
+                    Web API Demo
                 </div>
                 <div class="progress progress-striped active page-progress-bar">
                     <div class="bar"></div>
@@ -49,18 +48,26 @@
     <span data-cc-scroll-to-top></span>
 
     <!-- Vendor Scripts -->
-    <script src="scripts/jquery-2.1.1.min.js"></script>
+    <script src="scripts/jquery-2.1.1.js"></script>
     <script src="scripts/angular.js"></script>
     <script src="scripts/angular-animate.js"></script>
     <script src="scripts/angular-route.js"></script>
     <script src="scripts/angular-sanitize.js"></script>
     <script src="scripts/bootstrap.js"></script>
+
+    <script src="Scripts/breeze.min.js"></script>
+    <script src="Scripts/breeze.angular.js"></script>
+    <script src="Scripts/breeze.debug.js"></script>
+    <script src="Scripts/breeze.directives.js"></script>
+    
+
     <script src="scripts/toastr.js"></script>
     <script src="scripts/moment.js"></script>
     <script src="scripts/ui-bootstrap-tpls-0.10.0.js"></script>
     <script src="scripts/spin.js"></script>
 
     <!-- Bootstrapping -->
+
     <script src="app/app.js"></script>
     <script src="app/config.js"></script>
     <script src="app/config.exceptionHandler.js"></script>
@@ -79,19 +86,11 @@
     <script src="app/dashboard/dashboard.js"></script>
     <script src="app/layout/shell.js"></script>
     <script src="app/layout/sidebar.js"></script>
+    <script src="app/purchase/newOrder.js"></script>
 
     <!-- app Services -->
     <script src="app/services/datacontext.js"></script>
     <script src="app/services/directives.js"></script>
-    
-    <!-- Breeze Services -->
-    <script src="scripts/breeze.debug.js"></script>
-    <script src="scripts/breeze.angular.js"></script>
-    <script src="scripts/breeze.directives.js"></script>
-    <script src="scripts/breeze.saveErrorExtensions.js"></script>
-
-    <script src="scripts/breeze.to$q.shim.js"></script> <!-- Needed only if you are using to$q -->
-
     <script src="app/services/entityManagerFactory.js"></script>
 </body>
 </html>
