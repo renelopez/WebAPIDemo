@@ -1,17 +1,3 @@
-C:\Users\rene.lopez.UNOSQUARE\Documents\visual studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.csprojResolveAssemblyReference.cache
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll.config
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.pdb
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Breeze.ContextProvider.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Breeze.ContextProvider.EF6.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Newtonsoft.Json.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.xml
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Newtonsoft.Json.xml
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.dll
-C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.pdb
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll.config
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.pdb
@@ -26,3 +12,17 @@ C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\bin\Debug\Newtonsof
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.dll
 C:\Users\Usuario\Documents\GitHub\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.pdb
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll.config
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\WebApiDemo.Data.pdb
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Breeze.ContextProvider.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Breeze.ContextProvider.EF6.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.xml
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.csprojResolveAssemblyReference.cache
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Data\obj\Debug\WebApiDemo.Data.pdb

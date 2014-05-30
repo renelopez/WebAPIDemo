@@ -32,6 +32,10 @@
         }
         
         function addBookToOrder(book) {
+            if (!book || !order) {
+                logError("Book or order not received!", null, true);
+                return;
+            }
             var details = vm.orderDetails;
             var len = details.length;
             for (var index = 0; index < len; index++) {

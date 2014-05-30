@@ -123,6 +123,8 @@
     <Content Include="app\layout\widgetheader.html" />
     <Content Include="app\purchase\newOrder.html" />
     <Content Include="app\purchase\newOrder.js" />
+    <Content Include="app\purchase\orderManager.html" />
+    <Content Include="app\purchase\orderManager.js" />
     <Content Include="app\services\datacontext.js" />
     <Content Include="app\services\directives.js" />
     <Content Include="app\services\entityManagerFactory.js" />

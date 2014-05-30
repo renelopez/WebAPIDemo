@@ -49,6 +49,16 @@
                         content: '<i class="icon-book"></i> New Order'
                     }
                 }
+            }, {
+                url: '/orderManager',
+                config: {
+                    title: 'orderManager',
+                    templateUrl: 'app/purchase/orderManager.html',
+                    settings: {
+                        nav: 4,
+                        content: '<i class="icon-book"></i> Orders'
+                    }
+                }
             }
         ];
     }
