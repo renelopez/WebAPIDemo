@@ -5,6 +5,10 @@
                 <div class="widget wblue">
                     <div data-cc-widget-header title="{{vm.order.customer || 'New Title'}}"></div>
                     <div class="widget-content user">
+                        <button class="btn btn-success navbar-btn" ng-click="vm.save()" title="Save Order">
+                            <i class="icon-bar"></i>Save
+                        </button>&nbsp;&nbsp;
+
                         Customer name:<input ng-model="vm.order.customer" placeholder="Customer Name..."/>
                         Order date:{{vm.order.orderDate | date:'medium'}}
                         <hr/>

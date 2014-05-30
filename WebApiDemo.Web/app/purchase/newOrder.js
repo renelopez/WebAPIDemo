@@ -14,6 +14,7 @@
         vm.order = null;
         vm.orderDetails = [];
         vm.addBookToOrder = addBookToOrder;
+        vm.save = save;
 
         activate();
 
@@ -52,6 +53,14 @@
         function createOrder() {
             vm.order = datacontext.createOrder();
             vm.orderDetails = [];
+        }
+        
+        function save() {
+            datacontext.saveOrder().then(success);
+            function success() {
+                createOrder();
+                logSuccess("Order Saved.");
+            }
         }
     }
 })();

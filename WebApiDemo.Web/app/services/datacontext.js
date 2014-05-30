@@ -17,9 +17,11 @@
             addBookToOrder:addBookToOrder,
             createOrder:createOrder,
             getBooks: getBooks,
+            getMessageCount: getMessageCount,
             getPeople: getPeople,
-            ready:getReady(),
-            getMessageCount: getMessageCount
+            ready: getReady(),
+            isSaving:false,
+            saveOrder:saveOrder
         };
 
         return service;
@@ -82,6 +84,29 @@
 
             function fail(error) {
                 logError('oops we got ' + error.message, error, true);
+            }
+        }
+        
+        function saveOrder() {
+            service.isSaving = true;
+           return manager.saveChanges()
+                .catch(saveFailed)
+                .finally(saveFinally)
+                .then(saveOrderSuccess)
+            
+            function saveFinally() {
+                service.isSaving = false;
+            }
+
+            function saveFailed(error) {
+                var msg = "Save failed " + breeze.saveErrorMessageService.getErrorMessage(error);
+                error.message = msg;
+                logError(msg, error, true);
+                throw error;
+            }
+            
+            function saveOrderSuccess() {
+                
             }
         }
     }
