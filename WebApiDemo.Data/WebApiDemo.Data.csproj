@@ -31,6 +31,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'testTrans|AnyCPU'">
+    <OutputPath>bin\testTrans\</OutputPath>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Breeze.ContextProvider">
       <HintPath>..\packages\Breeze.Server.ContextProvider.1.4.12\lib\Breeze.ContextProvider.dll</HintPath>
