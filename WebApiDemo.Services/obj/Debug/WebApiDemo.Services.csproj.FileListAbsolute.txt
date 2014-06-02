@@ -154,3 +154,6 @@ C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\W
 C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\obj\Debug\WebApiDemo.Services.csprojResolveAssemblyReference.cache
 C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\obj\Debug\WebApiDemo.Services.exe
 C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\obj\Debug\WebApiDemo.Services.pdb
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\bin\Debug\Microsoft.Web.XmlTransform.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\bin\Debug\SlowCheetah.Xdt.dll
+C:\Users\rene.lopez.UNOSQUARE\Documents\Visual Studio 2013\Projects\WebAPIDemo\WebApiDemo.Services\bin\Debug\WebApiDemo.Data.dll.config
